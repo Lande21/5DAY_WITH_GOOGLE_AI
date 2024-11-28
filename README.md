@@ -4,3 +4,4 @@ come
 
 November 27-
 - Finished day 1-4 labs
+- Will keep refreshing my mind on them
